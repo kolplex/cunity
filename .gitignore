@@ -1,0 +1,12 @@
+data/config.xml
+data/uploads/*.*
+data/searchindex/*.*
+data/temp/templates-compiled/*.*
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml

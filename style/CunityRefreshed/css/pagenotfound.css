@@ -1,0 +1,19 @@
+.jumbotron {
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px #CCC;
+}
+
+.jumbotron h1 {
+    font-size:63px !important;
+    line-height:1 !important;
+    margin-top:20px !important;
+}
+
+.row {
+    padding-top:20px;
+    font-size:12px;
+}
+
+.row > .col-md-3 {
+    text-align: center;
+}

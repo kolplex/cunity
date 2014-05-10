@@ -7,6 +7,7 @@ LICENSE
 ======
 
 Copyright (C) 2014 Smart In Media GmbH & Co. KG
+
 CUNITY(R) is a registered trademark of Dr. Martin R. Weihrauch
 http://www.cunity.net
 

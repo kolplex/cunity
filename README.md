@@ -3,6 +3,16 @@ cunity
 
 Cunity V2 Alpha
 
+Requirements
+============
+
+PHP 5+ , MySQL 5+
+
+Cunity requires the Zend Framework 1.12 (http://framework.zend.com/downloads/latest) and 
+Smarty 3+ (http://www.smarty.net/download).
+
+Those Files should be in the PHP include-path or in the ./lib folder!
+
 LICENSE
 ======
 
